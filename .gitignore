@@ -1,0 +1,28 @@
+# Dataset files
+data/*.csv
+data/*.zip
+
+# Python bytecode and virtual environments
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment variables
+.env
+
+# Generated embeddings and model artifacts
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.h5
+*.hdf5
+*.keras
+*.safetensors
+*.ckpt
+*.bin
