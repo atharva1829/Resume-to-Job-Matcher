@@ -26,3 +26,4 @@ venv/
 *.safetensors
 *.ckpt
 *.bin
+data/data_quality_report.txt
